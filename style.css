@@ -317,6 +317,9 @@ div input::placeholder {
 .veg {
     background-image: url("img/categories/v.jpg");
 }
+.fru {
+    background-image: url("img/categories/f.jpg");
+}
 
 @media (max-width: 768px) {
     .category-shop {
