@@ -193,6 +193,9 @@ margin-top: 25px;
 
 }
 
+
+
+
 .categories-container{
     display: flex;
     background-color: #FEFEFE;
@@ -243,7 +246,7 @@ margin-top: 25px;
     width: 100px ;
     height: 150px;
     margin-top: 30px;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
     box-shadow: 0 0 15px #98C83E;
     border-radius: 20px;
     padding: 30px;
@@ -257,7 +260,6 @@ margin-top: 25px;
 .category-box:hover{
     width: 100px ;
     height: 150px;
-    margin-bottom: 10px;
     box-shadow: 0 0 15px #98C83E;
     border-radius: 20px;
     padding: 30px;
@@ -273,3 +275,54 @@ margin-top: 25px;
 
 }
 
+.veg{
+    background-image: url("img/categories/v.jpg");
+    background-size: cover;
+    background-position: center;  
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.title1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #302f2f ;
+    margin-left: 525px;
+
+}
+
+.des{
+    color: #535353;
+    font-size: 14px;
+    margin-left: 370px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.seasonal-container{
+ 
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+    display: flex;
+    background-color: #fff;
+    margin-bottom: 70px;
+
+}
+.seasonal-box{
+    width: 150px ;
+    height: 180px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 15px #98C83E;
+    border-radius: 20px;
+    padding: 30px;  
+    margin-left: 30px;
+}
+
+footer{
+    background-color: #3d3c3c;
+
+}
